@@ -3,5 +3,5 @@ This Shiny application shows the location of the different teams in the English 
 
 The two data files are Ranking data. csv and stadiums.csv
 
-You need to run the ui.R file. The libraries required to run the file are menioted above.
+You need to run the ui.R file. The libraries required to run the file are mentioted above.
 
